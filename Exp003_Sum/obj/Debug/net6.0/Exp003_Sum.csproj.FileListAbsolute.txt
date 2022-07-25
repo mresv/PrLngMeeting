@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\bin\Debug\net6.0\Exp003_Sum.exe
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\bin\Debug\net6.0\Exp003_Sum.deps.json
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\bin\Debug\net6.0\Exp003_Sum.runtimeconfig.json
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\bin\Debug\net6.0\Exp003_Sum.dll
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\bin\Debug\net6.0\Exp003_Sum.pdb
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\obj\Debug\net6.0\Exp003_Sum.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\obj\Debug\net6.0\Exp003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\obj\Debug\net6.0\Exp003_Sum.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\obj\Debug\net6.0\Exp003_Sum.AssemblyInfo.cs
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\obj\Debug\net6.0\Exp003_Sum.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\obj\Debug\net6.0\Exp003_Sum.dll
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\obj\Debug\net6.0\refint\Exp003_Sum.dll
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\obj\Debug\net6.0\Exp003_Sum.pdb
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\obj\Debug\net6.0\Exp003_Sum.genruntimeconfig.cache
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp003_Sum\obj\Debug\net6.0\ref\Exp003_Sum.dll
