@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\bin\Debug\net6.0\Exp002_Hello user.exe
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\bin\Debug\net6.0\Exp002_Hello user.deps.json
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\bin\Debug\net6.0\Exp002_Hello user.runtimeconfig.json
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\bin\Debug\net6.0\Exp002_Hello user.dll
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\bin\Debug\net6.0\Exp002_Hello user.pdb
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\obj\Debug\net6.0\Exp002_Hello user.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\obj\Debug\net6.0\Exp002_Hello user.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\obj\Debug\net6.0\Exp002_Hello user.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\obj\Debug\net6.0\Exp002_Hello user.AssemblyInfo.cs
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\obj\Debug\net6.0\Exp002_Hello user.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\obj\Debug\net6.0\Exp002_Hello user.dll
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\obj\Debug\net6.0\refint\Exp002_Hello user.dll
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\obj\Debug\net6.0\Exp002_Hello user.pdb
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\obj\Debug\net6.0\Exp002_Hello user.genruntimeconfig.cache
+D:\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp002_Hello user\obj\Debug\net6.0\ref\Exp002_Hello user.dll
