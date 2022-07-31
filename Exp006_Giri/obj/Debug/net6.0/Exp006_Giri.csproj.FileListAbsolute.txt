@@ -1,0 +1,15 @@
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\bin\Debug\net6.0\Exp006_Giri.exe
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\bin\Debug\net6.0\Exp006_Giri.deps.json
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\bin\Debug\net6.0\Exp006_Giri.runtimeconfig.json
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\bin\Debug\net6.0\Exp006_Giri.dll
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\bin\Debug\net6.0\Exp006_Giri.pdb
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\obj\Debug\net6.0\Exp006_Giri.csproj.AssemblyReference.cache
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\obj\Debug\net6.0\Exp006_Giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\obj\Debug\net6.0\Exp006_Giri.AssemblyInfoInputs.cache
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\obj\Debug\net6.0\Exp006_Giri.AssemblyInfo.cs
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\obj\Debug\net6.0\Exp006_Giri.csproj.CoreCompileInputs.cache
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\obj\Debug\net6.0\Exp006_Giri.dll
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\obj\Debug\net6.0\refint\Exp006_Giri.dll
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\obj\Debug\net6.0\Exp006_Giri.pdb
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\obj\Debug\net6.0\Exp006_Giri.genruntimeconfig.cache
+C:\Users\mresv\OneDrive\Documents\GB\Знакомство с яз прогр NEW\Examples\Exp006_Giri\obj\Debug\net6.0\ref\Exp006_Giri.dll
