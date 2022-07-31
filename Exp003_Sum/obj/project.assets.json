@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp003_Sum\\Exp003_Sum.csproj",
+      "projectUniqueName": "C:\\Users\\mresv\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp003_Sum\\Exp003_Sum.csproj",
       "projectName": "Exp003_Sum",
-      "projectPath": "D:\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp003_Sum\\Exp003_Sum.csproj",
+      "projectPath": "C:\\Users\\mresv\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp003_Sum\\Exp003_Sum.csproj",
       "packagesPath": "C:\\Users\\mresv\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp003_Sum\\obj\\",
+      "outputPath": "C:\\Users\\mresv\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp003_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mresv\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp002_Hello user\\Exp002_Hello user.csproj": {}
+    "C:\\Users\\mresv\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp002_Hello user\\Exp002_Hello user.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp002_Hello user\\Exp002_Hello user.csproj": {
+    "C:\\Users\\mresv\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp002_Hello user\\Exp002_Hello user.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp002_Hello user\\Exp002_Hello user.csproj",
+        "projectUniqueName": "C:\\Users\\mresv\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp002_Hello user\\Exp002_Hello user.csproj",
         "projectName": "Exp002_Hello user",
-        "projectPath": "D:\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp002_Hello user\\Exp002_Hello user.csproj",
+        "projectPath": "C:\\Users\\mresv\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp002_Hello user\\Exp002_Hello user.csproj",
         "packagesPath": "C:\\Users\\mresv\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp002_Hello user\\obj\\",
+        "outputPath": "C:\\Users\\mresv\\OneDrive\\Documents\\GB\\Знакомство с яз прогр NEW\\Examples\\Exp002_Hello user\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mresv\\AppData\\Roaming\\NuGet\\NuGet.Config"
